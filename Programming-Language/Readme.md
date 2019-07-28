@@ -1,0 +1,46 @@
+- C
+    - [ANSI C Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
+    - K&R C book (ANSI C)
+    - [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
+    - GDB:
+        - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=USPvePv1uzE)
+        - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
+        - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
+    - [Let us C](https://books.google.co.in/books/about/Let_Us_C.html?id=7HrjAAAACAAJ)
+
+- C++
+    - [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+    - [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+    - basics
+    - pointers
+    - functions
+    - references
+    - templates
+    - compilation
+    - scope & linkage
+    - namespaces
+    - OOP
+    - STL
+    - [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
+    - [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
+    - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+        - Google uses clang-format (there is a command line "style" argument: -style=google)
+    - [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
+    - [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+    - [Let us C++](https://books.google.co.in/books/about/Let_Us_C++.html?id=6HrjAAAACAAJ)
+    - [X] [Learn C++ Programming from Beginner to Expert : 2019](https://www.udemy.com/c-for-beginners-concise-and-practical/)
+    - [X] [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/beginning-c-plus-plus-programming/)
+    - [Learn Advanced C++ Programming](https://www.udemy.com/learn-advanced-c-programming/)
+
+- Go
+    - [The Go programming Language](https://golang.org/)
+    - [The Go programming Language (book)](http://www.gopl.io/)
+    - [A Tour of Go](https://tour.golang.org/)
+    - [Effective Go](https://golang.org/doc/effective_go.html)
+    - [Go Wiki](https://golang.org/wiki)
+    - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+    - [Go Proverbs](http://go-proverbs.github.io/)
+    - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+    - [ ] [Web Development w/ Google’s Go (golang) Programming Language](https://www.udemy.com/go-programming-language/)
+    - [ ] [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/go-the-complete-developers-guide/)
+    - [ ] [Go (Golang): The Complete Bootcamp Course](https://www.udemy.com/learn-go-the-complete-bootcamp-course-golang/)
