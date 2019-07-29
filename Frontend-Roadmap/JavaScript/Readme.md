@@ -12,6 +12,7 @@
 
 ## Topics
 - Syntax and Basi Constructs
+  - [Basic JavaScript Types](https://javascript.info/types)
 - Learn DOM Manipulation
 - Learn Fetch API/AJAX (XHR)
 - ES6+ and modular JavaScript
