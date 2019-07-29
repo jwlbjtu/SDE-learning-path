@@ -7,4 +7,4 @@
 - [ ] [Introduction to MongoDB](https://www.udemy.com/introduction-to-mongodb/)
 - [ ] [MongoDB - The Complete Developer's Guide](https://www.udemy.com/mongodb-the-complete-developers-guide/)
 
-# Graph Database
+# Graphic Database
