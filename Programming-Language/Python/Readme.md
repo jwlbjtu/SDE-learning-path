@@ -14,7 +14,7 @@
 
 ### Frameworks
 - [ ] [Complete Python Web Course: Build 8 Python Web Apps](https://www.udemy.com/the-complete-python-web-course-learn-by-building-8-apps/)
-- [ ] [Python and Flask Bootcamp: Create Websites using Flask!](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)
+- [X] [Python and Flask Bootcamp](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/) (2019-08-04)
 - [ ] [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/)
 - [ ] [Advanced REST APIs with Flask and Python](https://www.udemy.com/advanced-rest-apis-flask-python/)
 - [ ] [Python Django Dev To Deployment](https://www.udemy.com/python-django-dev-to-deployment/)
