@@ -25,3 +25,4 @@ This roadmap is from [developer-roadmap](https://github.com/kamranahmedse/develo
 - [ ] [Understanding Distributed Systems: The Complete Guide](https://www.udemy.com/data-science-real-world-business/)
 - [ ] [Design Patterns Simplified](https://www.udemy.com/software-design-patterns-simplified/)
 - [X] [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/)
+- [ ] [云计算工程师](https://edu.aliyun.com/promotion/28?spm=5176.11399608.aliyun-edu-index-pop.4.1e814679o9YXkC)
