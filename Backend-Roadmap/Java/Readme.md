@@ -9,6 +9,7 @@
 - [ ] [Advanced JAX-RS](https://www.youtube.com/watch?v=aHGGMX_Zq1w&list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
 - [ ] [JSPs and Servlets](https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96)
 - [ ] [Java 8 Lambda Basics](https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
+- [ ] [Java 学习路线](https://edu.aliyun.com/roadmap/java?spm=5176.8764702.aliyun-edu-index-001.5.54e34679Who09d)
 
 ### Articals
 
