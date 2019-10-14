@@ -5,7 +5,7 @@
 ## Real Estate
 - [X] Rental Propery Investing
     - Brandon Turner
-- [ ] Long-Distance Real Estate Investing: How to Buy, Rehab, and Manage Out-of-State Rental Properties
+- [X] Long-Distance Real Estate Investing: How to Buy, Rehab, and Manage Out-of-State Rental Properties
     - David Greene
 - [ ] [Fundamentals of Analyzing Real Estate Investments](https://www.udemy.com/course/real-estate-investment-analysis/)
 - [ ] [The Complete Guide To Retail Real Estate Investing](https://www.udemy.com/retail-real-estate-investing-masters/)
