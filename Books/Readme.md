@@ -3,9 +3,9 @@
 > Alos includes onlinr materials for the topics I am interested in.
 
 ## Real Estate
-- [X] Rental Propery Investing
+- [X] Rental Propery Investing(2019-01-31)
     - Brandon Turner
-- [X] Long-Distance Real Estate Investing: How to Buy, Rehab, and Manage Out-of-State Rental Properties
+- [X] Long-Distance Real Estate Investing: How to Buy, Rehab, and Manage Out-of-State Rental Properties(2019-09-30)
     - David Greene
 - [ ] [Fundamentals of Analyzing Real Estate Investments](https://www.udemy.com/course/real-estate-investment-analysis/)
 - [ ] [The Complete Guide To Retail Real Estate Investing](https://www.udemy.com/retail-real-estate-investing-masters/)
