@@ -44,3 +44,6 @@
     - [ ] [Web Development w/ Google’s Go (golang) Programming Language](https://www.udemy.com/go-programming-language/)
     - [ ] [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/go-the-complete-developers-guide/)
     - [ ] [Go (Golang): The Complete Bootcamp Course](https://www.udemy.com/learn-go-the-complete-bootcamp-course-golang/)
+    
+- Kotlin
+- Groovy
