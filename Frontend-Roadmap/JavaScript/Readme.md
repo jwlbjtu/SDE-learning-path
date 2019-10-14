@@ -6,7 +6,7 @@
 - [X] [The Complete JavaScript Course 2019: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/)
 - [ ] [Advanced Javascript](https://www.udemy.com/javascript-advanced/)
 - [ ] [Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/)
-- [ ] [https://www.udemy.com/understand-javascript/](https://www.udemy.com/understand-javascript/)
+- [ ] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
 - [ ] [Accelerated ES6 JavaScript Training](https://www.udemy.com/es6-bootcamp-next-generation-javascript/)
 - [ ] [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
 - [ ] [JavaScript for Developers](https://www.youtube.com/watch?v=s6R0VEdoVt4&list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K)
