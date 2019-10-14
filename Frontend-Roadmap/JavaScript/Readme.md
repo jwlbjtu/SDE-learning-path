@@ -1,8 +1,8 @@
 # JavaScript
 
 ## The Basics
-- [ ] [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
-- [ ] [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa)
+- [X] [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)(2019-10-14)
+- [X] [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa)(2019-10-14)
 - [X] [The Complete JavaScript Course 2019: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/) (2019-10-08)
 - [ ] [Advanced Javascript](https://www.udemy.com/javascript-advanced/)
 - [ ] [Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/)
