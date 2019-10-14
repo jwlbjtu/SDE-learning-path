@@ -10,6 +10,8 @@
 - [ ] [JSPs and Servlets](https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96)
 - [ ] [Java 8 Lambda Basics](https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
 - [ ] [Java 学习路线](https://edu.aliyun.com/roadmap/java?spm=5176.8764702.aliyun-edu-index-001.5.54e34679Who09d)
+- [ ] 疯狂Java讲义 - 李刚
+- [ ] Java Concurrency in practice - Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea
 
 ### Articals
 
@@ -35,6 +37,8 @@
 - [ ] [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/spring-hibernate-tutorial/)
 - [ ] [Java Spring Tutorial Masterclass - Learn Spring Framework 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
 - [ ] [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+- [ ] Spring 5 核心原理与30个类手写实战 - 谭永德
+- [ ] Spring 5 高级编程 - Rob Harrop
 
 ### Testing
 - [ ] [Testing Spring Boot: Beginner to Guru
