@@ -64,4 +64,4 @@
 
 # Type Checkers
 - TypeScript
-    - [ ] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
+    - [X] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)(2019-10-23)
