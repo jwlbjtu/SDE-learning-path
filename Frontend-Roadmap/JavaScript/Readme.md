@@ -8,7 +8,6 @@
 - [ ] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
 - [ ] [Accelerated ES6 JavaScript Training](https://www.udemy.com/es6-bootcamp-next-generation-javascript/)
 - [ ] [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
-- [ ] [JavaScript for Developers](https://www.youtube.com/watch?v=s6R0VEdoVt4&list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K)
 - [ ] [Scopes and Closures In-depth](https://www.youtube.com/watch?v=O312eN5J2bc&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c)
 - [ ] [Objects and Prototypes In-depth](https://www.youtube.com/watch?v=fBpPfPjxOhc&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
 
