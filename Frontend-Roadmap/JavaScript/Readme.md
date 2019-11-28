@@ -9,11 +9,11 @@
 - [ ] [Objects and Prototypes In-depth](https://www.youtube.com/watch?v=fBpPfPjxOhc&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
 
 ## Topics
-- Syntax and Basi Constructs
+- [X] Syntax and Basi Constructs
   - [Basic JavaScript Types](https://javascript.info/types)
-- Learn DOM Manipulation
-- Learn Fetch API/AJAX (XHR)
-- ES6+ and modular JavaScript
+- [X] Learn DOM Manipulation
+- [ ]Learn Fetch API/AJAX (XHR)
+- [X] ES6+ and modular JavaScript
 - Concetps
     - Hoising
     - Event Bubbing
@@ -26,28 +26,22 @@
     - HTTP/HTTPS
 
 # Linters and Formaters
-- Prettier
-- ESLint
-- JSLint
+- [ ] Prettier
+- [ ] ESLint
 
 # Module Bindlers
-- Webpack
+- [ ] Webpack
 
 # Frameworks
 - React
-    - Redux
-    - MobX
+    - [ ] [Redux](https://redux.js.org/)
+    - [ ] [MobX](https://mobx.js.org/intro/overview.html)
     - [ ] [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/)
     - [ ] [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
     - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/README.md)
-- Angular
-    - RxJS
-    - ngrx
-    - [ ] [Angular 8 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
 
 # CSS in JS
-- Styled Components
-- CSS Modules
+- [X] [Styled Components](https://www.styled-components.com/docs/basics)
 
 # Testing
 - Jest
