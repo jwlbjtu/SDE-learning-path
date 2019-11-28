@@ -7,7 +7,7 @@
     - Brandon Turner
 - [X] Long-Distance Real Estate Investing: How to Buy, Rehab, and Manage Out-of-State Rental Properties(2019-09-30)
     - David Greene
-- [X] [Fundamentals of Analyzing Real Estate Investments](https://www.udemy.com/course/real-estate-investment-analysis/)
+- [X] [Fundamentals of Analyzing Real Estate Investments](https://www.udemy.com/course/real-estate-investment-analysis/)(2019-11-25)
 - [ ] [The Complete Guide To Retail Real Estate Investing](https://www.udemy.com/retail-real-estate-investing-masters/)
 - [ ] [How to Get Started Real Estate Investing!](https://www.udemy.com/rei-quick-start/)
 
