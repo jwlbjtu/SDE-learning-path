@@ -1,5 +1,5 @@
 # Backend Roadmap
-∫# Backend Roadmap
+# Backend Roadmap
 This roadmap is from [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) and [https://roadmap.sh](https://roadmap.sh)
 
 ![Backend Roadmap - from https://roadmap.sh](https://roadmap.sh/static/roadmaps/latest/backend.png)
