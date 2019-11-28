@@ -12,7 +12,7 @@
 - [X] Syntax and Basi Constructs
   - [Basic JavaScript Types](https://javascript.info/types)
 - [X] Learn DOM Manipulation
-- [ ]Learn Fetch API/AJAX (XHR)
+- [ ] Learn Fetch API/AJAX (XHR)
 - [X] ES6+ and modular JavaScript
 - Concetps
     - Hoising
