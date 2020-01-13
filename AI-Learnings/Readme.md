@@ -8,6 +8,7 @@
 - [ ] [Deep Learning and Machine Learning Practical Workout](https://www.udemy.com/deep-learning-machine-learning-practical/)
 - [ ] [Complete 2019 Data Science & Machine Learning Bootcamp](https://www.udemy.com/python-data-science-machine-learning-bootcamp/)
 - [ ] [Artificial Intelligence Masterclass](https://www.udemy.com/artificial-intelligence-masterclass/)
+- [ ] [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 # Deep Learning
 - [ ] [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/deeplearning/)
