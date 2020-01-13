@@ -2,7 +2,7 @@
 # Backend Roadmap
 This roadmap is from [developer-roadmap](https://roadmap.sh/backend) and [https://roadmap.sh](https://roadmap.sh)
 
-![Backend Roadmap - from https://roadmap.sh](https://roadmap.sh/backend)
+![Backend Roadmap - from https://roadmap.sh](https://roadmap.sh/static/roadmaps/backend.png)
 
 # Backend Articals and Topics
 
