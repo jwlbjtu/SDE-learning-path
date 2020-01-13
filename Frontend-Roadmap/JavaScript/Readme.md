@@ -34,8 +34,7 @@
 
 # Frameworks
 - React
-    - [ ] [Redux](https://redux.js.org/)
-    - [ ] [MobX](https://mobx.js.org/intro/overview.html)
+    - [X] [Redux](https://redux.js.org/)
     - [ ] [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/)
     - [ ] [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
     - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/README.md)
