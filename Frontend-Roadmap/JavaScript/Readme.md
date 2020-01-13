@@ -54,3 +54,6 @@
 # Type Checkers
 - TypeScript
     - [X] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)(2019-10-23)
+
+# Books
+- [ ] JavaScript the Good Part
