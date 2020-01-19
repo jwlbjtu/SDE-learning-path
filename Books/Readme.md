@@ -10,6 +10,9 @@
 - [X] [Fundamentals of Analyzing Real Estate Investments](https://www.udemy.com/course/real-estate-investment-analysis/)(2019-11-25)
 - [ ] [How to Get Started Real Estate Investing!](https://www.udemy.com/rei-quick-start/)
 
+## Technology
+- [X] [JavaScript the Good Parts](https://learning.oreilly.com/library/view/javascript-the-good/9780596517748/) (2020/01/18)
+
 ## Personal Development
 
 ## Uncategorized
