@@ -20,7 +20,8 @@
 - [ ] [Build Microservices](https://learning.oreilly.com/library/view/building-microservices/9781491950340/)
 
 ## Personal Development
-- [ ] The 4-Hour Workweek (reading)
+- [X] The 4-Hour Workweek (2020-03-27)
+- [ ] Rich Data Poor Dad (reading)
 
 ## Uncategorized
 - [ ] [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
