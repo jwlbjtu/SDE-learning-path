@@ -22,7 +22,8 @@
 ## Personal Development
 - [X] The 4-Hour Workweek (2020-03-27)
 - [X] Rich Data Poor Dad (2020-04-11)
-- [ ] The power of habit (reading)
+- [X] The power of habit (2020-05-18)
+- [ ] Never eat alone ()
 
 ## Uncategorized
 - [ ] [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
