@@ -20,6 +20,10 @@
 - [ ] [Python Django Dev To Deployment](https://www.udemy.com/python-django-dev-to-deployment/)
 - [ ] [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/)
 
+### Books
+- [X] Python 编程 | 从入门岛精通 - 叶维忠 （2020-05-31）
+- [ ] Python 3 网络爬虫开发实战 - 崔庆才
+
 ### Other Topics
 - [ ] [Python Algo Stock Trading: Automate Your Trading!](https://www.udemy.com/algorithmic-stock-trading-bootcamp-automate-your-trading/)
 - [ ] [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
