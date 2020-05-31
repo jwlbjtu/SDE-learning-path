@@ -31,6 +31,7 @@
     - [X] [Learn C++ Programming from Beginner to Expert : 2019](https://www.udemy.com/c-for-beginners-concise-and-practical/)
     - [X] [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/beginning-c-plus-plus-programming/)
     - [Learn Advanced C++ Programming](https://www.udemy.com/learn-advanced-c-programming/)
+    - [ ] [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 
 - Go
     - [The Go programming Language](https://golang.org/)
