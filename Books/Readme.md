@@ -28,3 +28,5 @@
 ## Uncategorized
 - [ ] [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
 - [ ] [Probability for Statistics and Data Science](https://www.udemy.com/probability-for-statistics-and-data-science/)
+- [ ] [how-to-build-your-own-uber-for-x-app](https://github.com/booleanhunter/how-to-build-your-own-uber-for-x-app)
+- [ ] [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
