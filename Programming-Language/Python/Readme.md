@@ -11,6 +11,7 @@
 - [ ] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [ ] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [ ] [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/)
+- [ ] [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 
 ### Frameworks
 - [ ] [Complete Python Web Course: Build 8 Python Web Apps](https://www.udemy.com/the-complete-python-web-course-learn-by-building-8-apps/)
