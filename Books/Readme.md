@@ -10,6 +10,7 @@
     - David Greene
 - [X] [Fundamentals of Analyzing Real Estate Investments](https://www.udemy.com/course/real-estate-investment-analysis/)(2019-11-25)
 - [ ] [How to Get Started Real Estate Investing!](https://www.udemy.com/rei-quick-start/)
+- [ ] Mobile Home Park Investment
 
 ## Technology
 #### JavaScript
