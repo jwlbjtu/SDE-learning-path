@@ -21,7 +21,7 @@
 
 ## Personal Development
 - [X] The 4-Hour Workweek (2020-03-27)
-- [X] Rich Data Poor Dad (2020-04-11)
+- [X] Rich Dad Poor Dad (2020-04-11)
 - [X] The power of habit (2020-05-18)
 - [ ] Never eat alone ()
 
