@@ -26,8 +26,9 @@
 - [X] The power of habit (2020-05-18)
 - [ ] Never eat alone ()
 - [ ] 创业36条军规
-- [ ] Modern Monopolies
-- [ ] Hacking Growth
+- [X] Modern Monopolies (2021-08)
+- [X] Hacking Growth (2021-09)
+- [ ] Influence (reading)
 
 ## Uncategorized
 - [ ] [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
