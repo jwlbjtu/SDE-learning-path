@@ -28,7 +28,8 @@
 - [ ] 创业36条军规
 - [X] Modern Monopolies (2021-08)
 - [X] Hacking Growth (2021-09)
-- [ ] Influence (reading)
+- [X] Influence (2021-10-1) - Robert B. Cialdini
+- [ ] 六项精进 - 稻盛和夫
 
 ## Uncategorized
 - [ ] [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
