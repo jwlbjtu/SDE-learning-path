@@ -29,7 +29,15 @@
 - [X] Modern Monopolies (2021-08)
 - [X] Hacking Growth (2021-09)
 - [X] Influence (2021-10-1) - Robert B. Cialdini
-- [ ] 六项精进 - 稻盛和夫
+- [X] 六项精进 - 稻盛和夫 (2021-10-2)
+- [ ] 经营十二条 - 稻盛和夫
+- [ ] 创造高收益 - 稻盛和夫
+- [ ] 阿米巴经营 - 稻盛和夫
+- [ ] 干法 - 稻盛和夫
+- [ ] 活法 - 稻盛和夫
+- [ ] A Brief History of Humankind - Yuval Noah Harari (reading)
+- [ ] A Brief History of Tomorrow - Yuval Noah Harari
+- [ ] 21 Lessons for 21 Century - Yuval Noah Harari
 
 ## Uncategorized
 - [ ] [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
