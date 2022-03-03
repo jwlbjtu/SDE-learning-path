@@ -26,8 +26,8 @@
     - HTTP/HTTPS
 
 # Linters and Formaters
-- [ ] Prettier
-- [ ] ESLint
+- [X] Prettier
+- [X] ESLint
 
 # Module Bindlers
 - [ ] Webpack
