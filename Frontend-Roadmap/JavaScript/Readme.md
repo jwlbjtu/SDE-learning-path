@@ -39,6 +39,9 @@
     - [X] [Complete React Developer in 2019 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)(2020-02-06)
     - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/README.md)
 
+- NextJS
+    - [ ] [NextJS React the Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (ongoing)
+
 # CSS in JS
 - [X] [Styled Components](https://www.styled-components.com/docs/basics)
 
