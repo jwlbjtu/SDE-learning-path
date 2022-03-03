@@ -38,7 +38,7 @@
 - [ ] [Spring Framework Master Class - Learn Spring the Modern Way!](https://www.udemy.com/spring-tutorial-for-beginners/)
 - [ ] [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/spring-hibernate-tutorial/)
 - [ ] [Java Spring Tutorial Masterclass - Learn Spring Framework 5](https://www.udemy.com/course/java-spring-framework-masterclass/)
-- [ ] [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+- [X] [Spring Boot Quick Start](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 - [ ] Spring 5 核心原理与30个类手写实战 - 谭永德
 - [ ] Spring 5 高级编程 - Rob Harrop
 
