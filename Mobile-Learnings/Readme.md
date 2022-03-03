@@ -6,3 +6,6 @@
 # Fluster
 - [ ] [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/flutter-bootcamp-with-dart/)
 - [ ] [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
+# React Native
+- [ ] [React Native the Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/)
