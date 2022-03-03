@@ -36,7 +36,7 @@
 - [ ] 干法 - 稻盛和夫
 - [ ] 活法 - 稻盛和夫
 - [X] A Brief History of Humankind - Yuval Noah Harari (2021-12-20)
-- [ ] A Brief History of Tomorrow - Yuval Noah Harari
+- [ ] A Brief History of Tomorrow - Yuval Noah Harari （2022/03/03 - reading)
 - [ ] 21 Lessons for 21 Century - Yuval Noah Harari
 
 ## Uncategorized
