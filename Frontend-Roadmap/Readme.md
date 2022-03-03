@@ -16,6 +16,7 @@ This roadmap is from [developer-roadmap](https://github.com/kamranahmedse/develo
 - [ ] [The Complete 2019 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [ ] [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 - [ ] [前段路线](https://edu.aliyun.com/roadmap/frontend?spm=5176.8764702.aliyun-edu-index-001.7.54e34679SG9sNb)
+- [ ] [NextJS React the Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (ongoing)
 
 ### SEO
 - [ ] [SEO For WordPress [Beginners]: #1 Step-by-Step SEO System](https://www.udemy.com/seo-for-wordpress-tutorial-videos/)
