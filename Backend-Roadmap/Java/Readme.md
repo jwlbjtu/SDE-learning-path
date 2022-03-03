@@ -28,7 +28,7 @@
 # Spring Framework
 
 - [ ] [spring-webmvc-jwt-sample](https://github.com/hantsy/spring-webmvc-jwt-sample)
-- [ ] [SpringAll](https://github.com/wuyouzhuguli/SpringAll)
+- [X] [SpringAll](https://github.com/wuyouzhuguli/SpringAll)
 - [ ] [Spring Tutorial Par 1](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 - [ ] [Spring Tutorial Par 2](https://www.youtube.com/watch?v=QdyLsX0nG30&list=PLE37064DE302862F8)
 - [ ] [Spring Tutorial Par 3](https://www.youtube.com/watch?v=eR_JFtqyNL4&list=PL1A506B159E5BD13E)
