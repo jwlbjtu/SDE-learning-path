@@ -30,13 +30,8 @@
 - [X] Hacking Growth (2021-09)
 - [X] Influence (2021-10-1) - Robert B. Cialdini
 - [X] 六项精进 - 稻盛和夫 (2021-10-2)
-- [ ] 经营十二条 - 稻盛和夫
-- [ ] 创造高收益 - 稻盛和夫
-- [ ] 阿米巴经营 - 稻盛和夫
-- [ ] 干法 - 稻盛和夫
-- [ ] 活法 - 稻盛和夫
 - [X] A Brief History of Humankind - Yuval Noah Harari (2021-12-20)
-- [ ] A Brief History of Tomorrow - Yuval Noah Harari （2022/03/03 - reading)
+- [X] A Brief History of Tomorrow - Yuval Noah Harari （2022/03/03 - 2022/11/10)
 - [ ] 21 Lessons for 21 Century - Yuval Noah Harari
 
 ## Uncategorized
